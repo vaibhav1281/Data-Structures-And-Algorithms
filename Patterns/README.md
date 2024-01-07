@@ -1,4 +1,4 @@
-### Pattern 1
+### [Pattern 1](https://github.com/vaibhav1281/Data-Structures-And-Algorithms/blob/main/Patterns/pattern1.cpp)
 ```c++
     * * * * 
     * * * * 
@@ -7,7 +7,7 @@
 
 ```
 
-### Pattern 2
+### [Pattern 2](https://github.com/vaibhav1281/Data-Structures-And-Algorithms/blob/main/Patterns/pattern2.cpp)
 ```c++
     *
     **
@@ -17,7 +17,7 @@
 
 ```
 
-### Pattern 3
+### [Pattern 3](https://github.com/vaibhav1281/Data-Structures-And-Algorithms/blob/main/Patterns/pattern3.cpp)
 ```c++
     1 
     1 2 
@@ -30,11 +30,11 @@
 
 ```
 
-### Pattern 4
+### [Pattern 4](https://github.com/vaibhav1281/Data-Structures-And-Algorithms/blob/main/Patterns/pattern4.cpp)
 ```c++
-    * * * * 
-    * * * * 
-    * * * * 
-    * * * * 
+    1 
+    2 2 
+    3 3 3 
+    4 4 4 4 
 
 ```
