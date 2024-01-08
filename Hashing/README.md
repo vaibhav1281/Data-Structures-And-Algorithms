@@ -1,5 +1,7 @@
 **Count the number of occurrences of each element in `num` array in `arr` array.**
 
+**Brute Force Approach**
+
 ```cpp
 #include<bits/stdc++.h>
 using namespace std;
@@ -50,4 +52,11 @@ Enter elements of the arr array: 1 3 1 9 2 7
 
 ```c++
 2 1 1 0 0 0
+```
+
+**Optimize approach using Hash**
+
+```cpp
+
+
 ```
